@@ -1,0 +1,28 @@
+img {
+    height: auto;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+body li {
+    text-align: justify;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    text-align: center;
+    background-color: rgb(250, 183, 101);
+}
+
+h5 {
+    background-color: rgb(252, 231, 206);
+}
+
+h2 {
+    background-color: transparent;
+}
